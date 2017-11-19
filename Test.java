@@ -7,6 +7,8 @@ public class Test {
 		System.out.println("BORDEL DE MERDE");
 		System.out.println("BORDEL DE MERDE2");
 		System.out.println("BORDEL DE MERDE3");
+		System.out.println("BORDEL DE MERDE3");
+		System.out.println("BORDEL DE MERDE3");
 		
 	}
 
