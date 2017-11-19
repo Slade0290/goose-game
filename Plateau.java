@@ -6,4 +6,9 @@ public class Plateau {
 	public Case getCase() {
 		return case;
 	}
+	
+	public void setCase(Case case) {
+		this.case = case;
+	}
+	
 }
