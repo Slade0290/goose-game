@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("BORDEL DE MERDE3");
 		System.out.println("BORDEL DE MERDE3");
 		System.out.println("BORDEL DE MERDE3");
+		System.out.println("Test commit");
 		
 	}
 
