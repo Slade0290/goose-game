@@ -3,11 +3,10 @@ public class Case {
 	
 	private static int QUESTION = 0;
 	private static int SAUT = 1;
-	private static int PRISON = 2;
-	private static int LIBERATION = 3;
-	private static int REJOUER = 4;
-	private static int NORMAL = 5;
-	private int type;
+	private static int PRISON = 2; //faire un nombre pair
+	private static int REJOUER = 3;
+	private static int NORMAL = 4;
+	//private int type;
 	private Pion pion;
 	
 	public Case(int type) {

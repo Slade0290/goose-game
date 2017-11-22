@@ -3,12 +3,10 @@ public class Question {
 
 	private String question;
 	private int reponse;
-	private final int score;
 	
-	public Question(String question, int reponse, int score) {
+	public Question(String question, int reponse) {
 		this.question = question;
 		this.reponse = reponse;
-		this.score = score;
 	}
 	
 	public boolean estCorrect(int reponseDonnee) {
