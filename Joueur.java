@@ -1,5 +1,5 @@
 
-public class Joueur {
+public class abstract Joueur {
 	
 	private final String nom;
 	
