@@ -1,10 +1,10 @@
 
 public class Plateau {
 	
-	private Case case;
+	private Case[] case;
 	private De de;
 	
-	public Case getCase() {
+	public Case[] getCase() {
 		return case;
 	}
 	
