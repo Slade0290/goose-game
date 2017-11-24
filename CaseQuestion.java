@@ -1,4 +1,4 @@
-public class CaseQuestion {
+public class CaseQuestion extends Case{
 
   private Question question;
   
