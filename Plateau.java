@@ -2,6 +2,7 @@
 public class Plateau {
 	
 	private Case case;
+	private De de;
 	
 	public Case getCase() {
 		return case;
