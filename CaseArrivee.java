@@ -1,12 +1,8 @@
 
 public class CaseArrivee extends Case {
 
-	public CaseArrivee(int type) {
-		super(type);
-	}
-	
-	public CaseArrivee(int type, Pion pion) {
-		super(type,pion);
+	public CaseArrivee(Pion pion) {
+		super(pion);
 	}
 	
 	public boolean finDuJeu() {
