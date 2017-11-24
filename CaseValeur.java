@@ -7,5 +7,8 @@ public class CaseValeur extends Case{
   }
   
   
+  public int calculCoef()
+  
+  
   }
 
