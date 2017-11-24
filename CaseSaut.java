@@ -1,4 +1,4 @@
-public class CaseSaut {
+public class CaseSaut extends Case{
   
   private int destination;
   
