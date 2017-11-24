@@ -2,7 +2,8 @@ public class CaseQuestion extends Case{
 
   private Question question;
   
-  public CaseQuestion(){
+  public CaseQuestion(Pion p){
+    super(p);
     this.question = questionRandom();
   }
   
