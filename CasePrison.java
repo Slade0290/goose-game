@@ -2,7 +2,8 @@ public class CasePrison extends Case {
   
   private boolean prisonnier;
   
-  public CasePrison(){
+  public CasePrison(Pion pion){
+    super(pion);
     this.prisonnier = true;
   }
   
